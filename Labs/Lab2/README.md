@@ -1,1 +1,2 @@
 # Esbeide-Ibarra-ML-Course
+In this lab, I learned how to set up a complete machine learning development environment and work confidently across different tools. I imported and used essential Python libraries, loaded and explored my first dataset, and even created my first data visualization. I also practiced writing clear, professional documentation using Markdown and gained a stronger understanding of how GitHub supports project management and version control.
