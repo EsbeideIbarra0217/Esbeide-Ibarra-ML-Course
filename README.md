@@ -1,1 +1,2 @@
 # Esbeide-Ibarra-ML-Course
+My name is Esbeide Ibarra, and I’m taking Intro to Machine Learning as part of my AI major. I’m getting into machine learning because I like understanding how these models actually work and how they can be used to build smarter systems. So far, I’ve wrapped up the labs and assignments from Modules 1 and 2, where we set up our environment, worked with Python libraries, explored datasets, made visualizations, practiced Markdown, and got familiar with GitHub for keeping everything organized.
